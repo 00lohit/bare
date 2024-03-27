@@ -1,4 +1,21 @@
 {
   "name": "bare",
-  "displayName": "bare"
+  "displayName": "bare",
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.bare"
+    },
+    "android": {
+      "package": "com.bare"
+    },
+    "runtimeVersion": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e40f39bb-88b3-4c92-b85b-1439d652062e"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e40f39bb-88b3-4c92-b85b-1439d652062e"
+    }
+  }
 }
